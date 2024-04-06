@@ -1,0 +1,6 @@
+langchain
+streamlit
+wikipedia
+chromadb 
+tiktoken
+huggingface_hub
